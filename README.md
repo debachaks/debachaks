@@ -7,8 +7,7 @@ I'm a PhD student at PROTON LAB, ASU, and a graduate researcher and builder work
 
 ## 🔍 About Me
 
-- 🎓 Master's in Computer Engineering @ Arizona State University (GPA: 4.0)
-- 🧪 **Graduate Research Associate** @ PROTON Lab. Thesis on *Distributed Power Control & Optimal Denoising for Over-the-Air Computation Networks*
+- 🎓 Current PhD in Computer Engineering @ Arizona State University - Focusing on Machine Learning for Fault detection in Embedded Systems.
 - 💼 Former Data Engineer @ ZS Associates – built scalable SQL pipelines and analytics for 1000+ field reps
 
 
