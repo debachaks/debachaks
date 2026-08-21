@@ -1,19 +1,16 @@
 # 👋 Hi, I'm Debaleena Chakraborty
 
-I'm a graduate researcher and builder working across deep learning, data systems, and wireless signal processing. I thrive at the intersection of data and real-world complexity.
+I'm a PhD student at PROTON LAB, ASU, and a graduate researcher and builder working across embedded systems, machine learning and data systems. I thrive at the intersection of data and real-world complexity.
 
 ---
 
-🔎 **Actively seeking roles in Data Science, Data Engineering, and Wireless Systems.**
-
----
 
 ## 🔍 About Me
 
 - 🎓 Master's in Computer Engineering @ Arizona State University (GPA: 4.0)
-- 🧪 **Graduate Research Associate** @ PROTON Lab — working on a thesis in *Distributed Power Control & Optimal Denoising for Over-the-Air Computation Networks*
+- 🧪 **Graduate Research Associate** @ PROTON Lab. Thesis on *Distributed Power Control & Optimal Denoising for Over-the-Air Computation Networks*
 - 💼 Former Data Engineer @ ZS Associates – built scalable SQL pipelines and analytics for 1000+ field reps
-- 📚 3x IEEE-published — applied deep learning on EEG signals for seizure detection
+
 
 ---
 
@@ -57,9 +54,11 @@ Built CNN and LSTM models on EEG time-series transformed into phase sync matrice
 
 ## 📝 Publications
 
+- IEEE ICC 2025 - *Game-Theoretic Over-the-Air Computation for Socially Coupled Crowdsensing Systems
+- ASSIC 2024 – *Attention-based Deep Learning for Epileptic Detection*
 - IEEE BSN 2023 – *Seizure Type Detection Using EEG + DL*  
 - IEEE SPMB 2023 – *LSTM Framework for Seizure Classification*  
-- ASSIC 2024 – *Attention-based Deep Learning for Epileptic Detection*
+
 
 ---
 
